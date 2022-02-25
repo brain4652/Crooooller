@@ -3,7 +3,7 @@
 ### 1. 개발환경
 
 * OS : Windows 10
-* Browser : Chrome 98 ver.
+* Browser : Chrome
 * Editor : VS Code
 * Language : Python 3.7.11
 
